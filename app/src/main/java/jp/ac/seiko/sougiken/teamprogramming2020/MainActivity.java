@@ -12,11 +12,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // 博ノ助がきたぞー！アルクェイドかわいい！
+        // ホストがきたぞー！プリンツ・オイゲンかわいい！
     }
-
 
     @Override
     public void onClick (View view) {
+        
+    }
+
+    private void init() {
 
     }
 }
