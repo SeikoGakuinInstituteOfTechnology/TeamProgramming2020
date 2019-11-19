@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+<<<<<<< HEAD
         // 博ノ助がきたぞー！アルクェイドかわいい！！
     }
 
@@ -18,5 +19,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick (View view) {
 
+=======
+        // ホストがきたぞー！プリンツ・オイゲンかわいい！
+    }
+
+    private void init() {
+        
+>>>>>>> master
     }
 }
