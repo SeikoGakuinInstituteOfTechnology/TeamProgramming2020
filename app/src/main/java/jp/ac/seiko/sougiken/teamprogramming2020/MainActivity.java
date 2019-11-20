@@ -5,18 +5,18 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // 博ノ助がきたぞー！アルクェイドかわいい！
+        // ホストがきたぞー！プリンツ・オイゲンかわいい！
+        init();
     }
 
-
-    @Override
-    public void onClick (View view) {
+    private void init() {
 
     }
 }
