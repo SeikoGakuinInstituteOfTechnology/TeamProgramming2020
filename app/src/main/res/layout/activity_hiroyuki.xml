@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hiroyuki.HiroyukiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_name_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hiroyuki_name_title" />
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_class_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hiroyuki_class_title" />
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_class"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_hate_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hiroyuki_hate_title" />
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_hate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_favor_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hiroyuki_favor_title" />
+
+        <TextView
+            android:id="@+id/textView_hiroyuki_favor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
