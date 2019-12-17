@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TeamProgramming2020</string>
+    <string name="Haruki_name_title">名前</string>
+    <string name="Haruki_class_title">クラス</string>
+    <string name="Haruki_favor_title">好きなもの</string>
+    <string name="Haruki_hate_title">嫌いなもの</string>
 </resources>
