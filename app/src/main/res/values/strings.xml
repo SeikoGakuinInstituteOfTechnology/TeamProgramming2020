@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">TeamProgramming2020</string>
+    <string name="soma_name_titie">名前</string>
+    <string name="soma_class_title">クラス</string>
+    <string name="soma_favor_title">好きなもの</string>
+    <string name="soma_hate_title">嫌いなもの</string>
+  
     <string name="hiroyuki_name_title">名前</string>
     <string name="hiroyuki_class_title">クラス</string>
     <string name="hiroyuki_favor_title">好きなもの</string>
