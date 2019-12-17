@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TeamProgramming2020</string>
+    <string name="textView_go_name_title">名前</string>
+    <string name="textView_go_class_title">クラス</string>
+    <string name="textView_go_favor_title">好きなもの</string>
+    <string name="textView_hate_title">嫌いなもの</string>
 </resources>
