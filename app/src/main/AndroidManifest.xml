@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Haruki.HarukiActivity"></activity>
         <activity android:name=".Haruto.HarutoActivity"></activity>
         <activity android:name=".Soma.SomaActivity" />
         <activity android:name=".Hiroyuki.HiroyukiActivity" />
