@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">TeamProgramming2020</string>
+  
+    <string name="kito_name_title">名前</string>
+    <string name="kito_class_title">クラス</string>
+    <string name="kito_favorite_title">好きなもの</string>
+    <string name="kito_hate_title">嫌いなもの</string>
 
     <string name="minato_name_title">名前</string>
     <string name="minato_class_title">クラス</string>

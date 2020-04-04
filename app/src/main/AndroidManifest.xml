@@ -10,6 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
       
+        <activity android:name=".Kenta.KitoActivity"></activity>
+      
         <activity android:name=".Minato.MinatoActivity"></activity>
         <activity android:name=".Yagami.Yagamiactivity"></activity>
         <activity android:name=".Go.GoActivity"></activity>
