@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Yagami.Yagamiactivity"></activity>
+        <activity android:name=".Go.GoActivity"></activity>
+        <activity android:name=".Haruki.HarukiActivity"></activity>
+        <activity android:name=".Haruto.HarutoActivity"></activity>
+        <activity android:name=".Soma.SomaActivity" />
+        <activity android:name=".Hiroyuki.HiroyukiActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
