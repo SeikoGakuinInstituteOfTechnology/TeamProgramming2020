@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // 博ノ助がきたぞー！アルクェイドかわいい！
-        // たぶん僕
-        // は？
+        // ホストがきたぞー！プリンツ・オイゲンかわいい！
+        // フォークテスト
         init();
     }
 
